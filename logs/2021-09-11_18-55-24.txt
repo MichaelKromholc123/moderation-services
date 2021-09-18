@@ -1,0 +1,570 @@
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: aioconsole==0.3.1 in ./.local/lib/python3.9/site-packages (0.3.1)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: aiofiles==0.6.0 in ./.local/lib/python3.9/site-packages (0.6.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: aiohttp==3.7.3 in ./.local/lib/python3.9/site-packages (3.7.3)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp==3.7.3) (1.6.3)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp==3.7.3) (5.1.0)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp==3.7.3) (20.3.0)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp==3.7.3) (3.0.1)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp==3.7.3) (3.7.4.3)
+Requirement already satisfied: chardet<4.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp==3.7.3) (3.0.4)
+Requirement already satisfied: idna>=2.0 in ./.local/lib/python3.9/site-packages (from yarl<2.0,>=1.0->aiohttp==3.7.3) (2.10)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: aioopenssl==0.6.0 in ./.local/lib/python3.9/site-packages (0.6.0)
+Requirement already satisfied: PyOpenSSL in ./.local/lib/python3.9/site-packages (from aioopenssl==0.6.0) (20.0.1)
+Requirement already satisfied: cryptography>=3.2 in ./.local/lib/python3.9/site-packages (from PyOpenSSL->aioopenssl==0.6.0) (3.4.6)
+Requirement already satisfied: six>=1.5.2 in ./.local/lib/python3.9/site-packages (from PyOpenSSL->aioopenssl==0.6.0) (1.15.0)
+Requirement already satisfied: cffi>=1.12 in ./.local/lib/python3.9/site-packages (from cryptography>=3.2->PyOpenSSL->aioopenssl==0.6.0) (1.14.5)
+Requirement already satisfied: pycparser in ./.local/lib/python3.9/site-packages (from cffi>=1.12->cryptography>=3.2->PyOpenSSL->aioopenssl==0.6.0) (2.20)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: aiosasl==0.5.0 in ./.local/lib/python3.9/site-packages (0.5.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: aioxmpp==0.12.0 in ./.local/lib/python3.9/site-packages (0.12.0)
+Requirement already satisfied: aiosasl>=0.3 in ./.local/lib/python3.9/site-packages (from aioxmpp==0.12.0) (0.5.0)
+Requirement already satisfied: multidict<6,>=2.0 in ./.local/lib/python3.9/site-packages (from aioxmpp==0.12.0) (5.1.0)
+Requirement already satisfied: tzlocal<3,>=1.2 in ./.local/lib/python3.9/site-packages (from aioxmpp==0.12.0) (2.1)
+Requirement already satisfied: dnspython<3.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aioxmpp==0.12.0) (2.1.0)
+Requirement already satisfied: pyOpenSSL in ./.local/lib/python3.9/site-packages (from aioxmpp==0.12.0) (20.0.1)
+Requirement already satisfied: pyasn1-modules in ./.local/lib/python3.9/site-packages (from aioxmpp==0.12.0) (0.2.8)
+Requirement already satisfied: sortedcollections>=0.5 in ./.local/lib/python3.9/site-packages (from aioxmpp==0.12.0) (2.1.0)
+Requirement already satisfied: aioopenssl>=0.1 in ./.local/lib/python3.9/site-packages (from aioxmpp==0.12.0) (0.6.0)
+Requirement already satisfied: babel~=2.3 in ./.local/lib/python3.9/site-packages (from aioxmpp==0.12.0) (2.9.0)
+Requirement already satisfied: lxml~=4.0 in ./.local/lib/python3.9/site-packages (from aioxmpp==0.12.0) (4.6.2)
+Requirement already satisfied: pyasn1 in ./.local/lib/python3.9/site-packages (from aioxmpp==0.12.0) (0.4.8)
+Requirement already satisfied: pytz>=2015.7 in ./.local/lib/python3.9/site-packages (from babel~=2.3->aioxmpp==0.12.0) (2021.1)
+Requirement already satisfied: sortedcontainers in ./.local/lib/python3.9/site-packages (from sortedcollections>=0.5->aioxmpp==0.12.0) (2.3.0)
+Requirement already satisfied: six>=1.5.2 in ./.local/lib/python3.9/site-packages (from pyOpenSSL->aioxmpp==0.12.0) (1.15.0)
+Requirement already satisfied: cryptography>=3.2 in ./.local/lib/python3.9/site-packages (from pyOpenSSL->aioxmpp==0.12.0) (3.4.6)
+Requirement already satisfied: cffi>=1.12 in ./.local/lib/python3.9/site-packages (from cryptography>=3.2->pyOpenSSL->aioxmpp==0.12.0) (1.14.5)
+Requirement already satisfied: pycparser in ./.local/lib/python3.9/site-packages (from cffi>=1.12->cryptography>=3.2->pyOpenSSL->aioxmpp==0.12.0) (2.20)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: altgraph==0.17 in ./.local/lib/python3.9/site-packages (0.17)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: async-timeout==3.0.1 in ./.local/lib/python3.9/site-packages (3.0.1)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: asyncio==3.4.3 in ./.local/lib/python3.9/site-packages (3.4.3)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: attrs==20.3.0 in ./.local/lib/python3.9/site-packages (20.3.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: Babel==2.9.0 in ./.local/lib/python3.9/site-packages (2.9.0)
+Requirement already satisfied: pytz>=2015.7 in ./.local/lib/python3.9/site-packages (from Babel==2.9.0) (2021.1)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: beautifulsoup4==4.9.3 in ./.local/lib/python3.9/site-packages (4.9.3)
+Requirement already satisfied: soupsieve>1.2 in ./.local/lib/python3.9/site-packages (from beautifulsoup4==4.9.3) (2.2.1)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: BenBotAsync==2.6.0 in ./.local/lib/python3.9/site-packages (2.6.0)
+Requirement already satisfied: aiohttp in ./.local/lib/python3.9/site-packages (from BenBotAsync==2.6.0) (3.7.3)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp->BenBotAsync==2.6.0) (20.3.0)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp->BenBotAsync==2.6.0) (1.6.3)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp->BenBotAsync==2.6.0) (3.7.4.3)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp->BenBotAsync==2.6.0) (5.1.0)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp->BenBotAsync==2.6.0) (3.0.1)
+Requirement already satisfied: chardet<4.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp->BenBotAsync==2.6.0) (3.0.4)
+Requirement already satisfied: idna>=2.0 in ./.local/lib/python3.9/site-packages (from yarl<2.0,>=1.0->aiohttp->BenBotAsync==2.6.0) (2.10)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: bs4==0.0.1 in ./.local/lib/python3.9/site-packages (0.0.1)
+Requirement already satisfied: beautifulsoup4 in ./.local/lib/python3.9/site-packages (from bs4==0.0.1) (4.9.3)
+Requirement already satisfied: soupsieve>1.2 in ./.local/lib/python3.9/site-packages (from beautifulsoup4->bs4==0.0.1) (2.2.1)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: certifi==2020.12.5 in ./.local/lib/python3.9/site-packages (2020.12.5)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: cffi==1.14.5 in ./.local/lib/python3.9/site-packages (1.14.5)
+Requirement already satisfied: pycparser in ./.local/lib/python3.9/site-packages (from cffi==1.14.5) (2.20)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: chardet==3.0.4 in ./.local/lib/python3.9/site-packages (3.0.4)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: clipboard==0.0.4 in ./.local/lib/python3.9/site-packages (0.0.4)
+Requirement already satisfied: pyperclip>=1.3 in ./.local/lib/python3.9/site-packages (from clipboard==0.0.4) (1.8.2)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: colorama==0.4.4 in ./.local/lib/python3.9/site-packages (0.4.4)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: configparser==5.0.2 in ./.local/lib/python3.9/site-packages (5.0.2)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: crayons==0.4.0 in ./.local/lib/python3.9/site-packages (0.4.0)
+Requirement already satisfied: colorama in ./.local/lib/python3.9/site-packages (from crayons==0.4.0) (0.4.4)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: cryptography==3.4.6 in ./.local/lib/python3.9/site-packages (3.4.6)
+Requirement already satisfied: cffi>=1.12 in ./.local/lib/python3.9/site-packages (from cryptography==3.4.6) (1.14.5)
+Requirement already satisfied: pycparser in ./.local/lib/python3.9/site-packages (from cffi>=1.12->cryptography==3.4.6) (2.20)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: DateTime==4.3 in ./.local/lib/python3.9/site-packages (4.3)
+Requirement already satisfied: zope.interface in ./.local/lib/python3.9/site-packages (from DateTime==4.3) (5.2.0)
+Requirement already satisfied: pytz in ./.local/lib/python3.9/site-packages (from DateTime==4.3) (2021.1)
+Requirement already satisfied: setuptools in /usr/local/lib/python3.9/dist-packages (from zope.interface->DateTime==4.3) (56.2.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: dhooks==1.1.4 in ./.local/lib/python3.9/site-packages (1.1.4)
+Requirement already satisfied: aiohttp in ./.local/lib/python3.9/site-packages (from dhooks==1.1.4) (3.7.3)
+Requirement already satisfied: requests in ./.local/lib/python3.9/site-packages (from dhooks==1.1.4) (2.25.1)
+Requirement already satisfied: chardet<4.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp->dhooks==1.1.4) (3.0.4)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp->dhooks==1.1.4) (3.0.1)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp->dhooks==1.1.4) (20.3.0)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp->dhooks==1.1.4) (5.1.0)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp->dhooks==1.1.4) (3.7.4.3)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp->dhooks==1.1.4) (1.6.3)
+Requirement already satisfied: idna>=2.0 in ./.local/lib/python3.9/site-packages (from yarl<2.0,>=1.0->aiohttp->dhooks==1.1.4) (2.10)
+Requirement already satisfied: certifi>=2017.4.17 in ./.local/lib/python3.9/site-packages (from requests->dhooks==1.1.4) (2020.12.5)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in ./.local/lib/python3.9/site-packages (from requests->dhooks==1.1.4) (1.26.3)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord==1.0.1 in ./.local/lib/python3.9/site-packages (1.0.1)
+Requirement already satisfied: discord.py>=1.0.1 in ./.local/lib/python3.9/site-packages (from discord==1.0.1) (1.7.3)
+Requirement already satisfied: aiohttp<3.8.0,>=3.6.0 in ./.local/lib/python3.9/site-packages (from discord.py>=1.0.1->discord==1.0.1) (3.7.3)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.0.1->discord==1.0.1) (1.6.3)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.0.1->discord==1.0.1) (20.3.0)
+Requirement already satisfied: chardet<4.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.0.1->discord==1.0.1) (3.0.4)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.0.1->discord==1.0.1) (5.1.0)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.0.1->discord==1.0.1) (3.7.4.3)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py>=1.0.1->discord==1.0.1) (3.0.1)
+Requirement already satisfied: idna>=2.0 in ./.local/lib/python3.9/site-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py>=1.0.1->discord==1.0.1) (2.10)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord-webhook==0.12.0 in ./.local/lib/python3.9/site-packages (0.12.0)
+Requirement already satisfied: requests>=2.19.1 in ./.local/lib/python3.9/site-packages (from discord-webhook==0.12.0) (2.25.1)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in ./.local/lib/python3.9/site-packages (from requests>=2.19.1->discord-webhook==0.12.0) (1.26.3)
+Requirement already satisfied: certifi>=2017.4.17 in ./.local/lib/python3.9/site-packages (from requests>=2.19.1->discord-webhook==0.12.0) (2020.12.5)
+Requirement already satisfied: idna<3,>=2.5 in ./.local/lib/python3.9/site-packages (from requests>=2.19.1->discord-webhook==0.12.0) (2.10)
+Requirement already satisfied: chardet<5,>=3.0.2 in ./.local/lib/python3.9/site-packages (from requests>=2.19.1->discord-webhook==0.12.0) (3.0.4)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: discord.py==1.7.3 in ./.local/lib/python3.9/site-packages (1.7.3)
+Requirement already satisfied: aiohttp<3.8.0,>=3.6.0 in ./.local/lib/python3.9/site-packages (from discord.py==1.7.3) (3.7.3)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py==1.7.3) (20.3.0)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py==1.7.3) (3.7.4.3)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py==1.7.3) (1.6.3)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py==1.7.3) (3.0.1)
+Requirement already satisfied: chardet<4.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py==1.7.3) (3.0.4)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp<3.8.0,>=3.6.0->discord.py==1.7.3) (5.1.0)
+Requirement already satisfied: idna>=2.0 in ./.local/lib/python3.9/site-packages (from yarl<2.0,>=1.0->aiohttp<3.8.0,>=3.6.0->discord.py==1.7.3) (2.10)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: dnspython==2.1.0 in ./.local/lib/python3.9/site-packages (2.1.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: FortniteAPIAsync==0.1.6 in ./.local/lib/python3.9/site-packages (0.1.6)
+Requirement already satisfied: aiohttp in ./.local/lib/python3.9/site-packages (from FortniteAPIAsync==0.1.6) (3.7.3)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp->FortniteAPIAsync==0.1.6) (3.0.1)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp->FortniteAPIAsync==0.1.6) (5.1.0)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp->FortniteAPIAsync==0.1.6) (20.3.0)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp->FortniteAPIAsync==0.1.6) (1.6.3)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp->FortniteAPIAsync==0.1.6) (3.7.4.3)
+Requirement already satisfied: chardet<4.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp->FortniteAPIAsync==0.1.6) (3.0.4)
+Requirement already satisfied: idna>=2.0 in ./.local/lib/python3.9/site-packages (from yarl<2.0,>=1.0->aiohttp->FortniteAPIAsync==0.1.6) (2.10)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: fortnitepy==3.4.0 in ./.local/lib/python3.9/site-packages (3.4.0)
+Requirement already satisfied: aioxmpp>=0.12.0 in ./.local/lib/python3.9/site-packages (from fortnitepy==3.4.0) (0.12.0)
+Requirement already satisfied: aiohttp>=3.3 in ./.local/lib/python3.9/site-packages (from fortnitepy==3.4.0) (3.7.3)
+Requirement already satisfied: aioconsole>=0.1.15 in ./.local/lib/python3.9/site-packages (from fortnitepy==3.4.0) (0.3.1)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp>=3.3->fortnitepy==3.4.0) (5.1.0)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp>=3.3->fortnitepy==3.4.0) (20.3.0)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp>=3.3->fortnitepy==3.4.0) (3.0.1)
+Requirement already satisfied: chardet<4.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp>=3.3->fortnitepy==3.4.0) (3.0.4)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp>=3.3->fortnitepy==3.4.0) (1.6.3)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp>=3.3->fortnitepy==3.4.0) (3.7.4.3)
+Requirement already satisfied: aioopenssl>=0.1 in ./.local/lib/python3.9/site-packages (from aioxmpp>=0.12.0->fortnitepy==3.4.0) (0.6.0)
+Requirement already satisfied: lxml~=4.0 in ./.local/lib/python3.9/site-packages (from aioxmpp>=0.12.0->fortnitepy==3.4.0) (4.6.2)
+Requirement already satisfied: dnspython<3.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aioxmpp>=0.12.0->fortnitepy==3.4.0) (2.1.0)
+Requirement already satisfied: pyasn1-modules in ./.local/lib/python3.9/site-packages (from aioxmpp>=0.12.0->fortnitepy==3.4.0) (0.2.8)
+Requirement already satisfied: pyasn1 in ./.local/lib/python3.9/site-packages (from aioxmpp>=0.12.0->fortnitepy==3.4.0) (0.4.8)
+Requirement already satisfied: tzlocal<3,>=1.2 in ./.local/lib/python3.9/site-packages (from aioxmpp>=0.12.0->fortnitepy==3.4.0) (2.1)
+Requirement already satisfied: aiosasl>=0.3 in ./.local/lib/python3.9/site-packages (from aioxmpp>=0.12.0->fortnitepy==3.4.0) (0.5.0)
+Requirement already satisfied: babel~=2.3 in ./.local/lib/python3.9/site-packages (from aioxmpp>=0.12.0->fortnitepy==3.4.0) (2.9.0)
+Requirement already satisfied: sortedcollections>=0.5 in ./.local/lib/python3.9/site-packages (from aioxmpp>=0.12.0->fortnitepy==3.4.0) (2.1.0)
+Requirement already satisfied: pyOpenSSL in ./.local/lib/python3.9/site-packages (from aioxmpp>=0.12.0->fortnitepy==3.4.0) (20.0.1)
+Requirement already satisfied: pytz>=2015.7 in ./.local/lib/python3.9/site-packages (from babel~=2.3->aioxmpp>=0.12.0->fortnitepy==3.4.0) (2021.1)
+Requirement already satisfied: sortedcontainers in ./.local/lib/python3.9/site-packages (from sortedcollections>=0.5->aioxmpp>=0.12.0->fortnitepy==3.4.0) (2.3.0)
+Requirement already satisfied: idna>=2.0 in ./.local/lib/python3.9/site-packages (from yarl<2.0,>=1.0->aiohttp>=3.3->fortnitepy==3.4.0) (2.10)
+Requirement already satisfied: cryptography>=3.2 in ./.local/lib/python3.9/site-packages (from pyOpenSSL->aioxmpp>=0.12.0->fortnitepy==3.4.0) (3.4.6)
+Requirement already satisfied: six>=1.5.2 in ./.local/lib/python3.9/site-packages (from pyOpenSSL->aioxmpp>=0.12.0->fortnitepy==3.4.0) (1.15.0)
+Requirement already satisfied: cffi>=1.12 in ./.local/lib/python3.9/site-packages (from cryptography>=3.2->pyOpenSSL->aioxmpp>=0.12.0->fortnitepy==3.4.0) (1.14.5)
+Requirement already satisfied: pycparser in ./.local/lib/python3.9/site-packages (from cffi>=1.12->cryptography>=3.2->pyOpenSSL->aioxmpp>=0.12.0->fortnitepy==3.4.0) (2.20)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: future==0.18.2 in ./.local/lib/python3.9/site-packages (0.18.2)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: idna==2.10 in ./.local/lib/python3.9/site-packages (2.10)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: lxml==4.6.2 in ./.local/lib/python3.9/site-packages (4.6.2)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: multidict==5.1.0 in ./.local/lib/python3.9/site-packages (5.1.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pefile==2021.5.24 in ./.local/lib/python3.9/site-packages (2021.5.24)
+Requirement already satisfied: future in ./.local/lib/python3.9/site-packages (from pefile==2021.5.24) (0.18.2)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pyasn1==0.4.8 in ./.local/lib/python3.9/site-packages (0.4.8)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pyasn1-modules==0.2.8 in ./.local/lib/python3.9/site-packages (0.2.8)
+Requirement already satisfied: pyasn1<0.5.0,>=0.4.6 in ./.local/lib/python3.9/site-packages (from pyasn1-modules==0.2.8) (0.4.8)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pycparser==2.20 in ./.local/lib/python3.9/site-packages (2.20)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pyfiglet==0.8.post1 in ./.local/lib/python3.9/site-packages (0.8.post1)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pyinstaller==4.3 in ./.local/lib/python3.9/site-packages (4.3)
+Requirement already satisfied: altgraph in ./.local/lib/python3.9/site-packages (from pyinstaller==4.3) (0.17)
+Requirement already satisfied: pyinstaller-hooks-contrib>=2020.6 in ./.local/lib/python3.9/site-packages (from pyinstaller==4.3) (2021.1)
+Requirement already satisfied: setuptools in /usr/local/lib/python3.9/dist-packages (from pyinstaller==4.3) (56.2.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pyinstaller-hooks-contrib==2021.1 in ./.local/lib/python3.9/site-packages (2021.1)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pymongo==3.12.0 in ./.local/lib/python3.9/site-packages (3.12.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pyOpenSSL==20.0.1 in ./.local/lib/python3.9/site-packages (20.0.1)
+Requirement already satisfied: cryptography>=3.2 in ./.local/lib/python3.9/site-packages (from pyOpenSSL==20.0.1) (3.4.6)
+Requirement already satisfied: six>=1.5.2 in ./.local/lib/python3.9/site-packages (from pyOpenSSL==20.0.1) (1.15.0)
+Requirement already satisfied: cffi>=1.12 in ./.local/lib/python3.9/site-packages (from cryptography>=3.2->pyOpenSSL==20.0.1) (1.14.5)
+Requirement already satisfied: pycparser in ./.local/lib/python3.9/site-packages (from cffi>=1.12->cryptography>=3.2->pyOpenSSL==20.0.1) (2.20)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pyperclip==1.8.2 in ./.local/lib/python3.9/site-packages (1.8.2)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pypresence==4.2.0 in ./.local/lib/python3.9/site-packages (4.2.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: PySide2==5.15.2 in ./.local/lib/python3.9/site-packages (5.15.2)
+Requirement already satisfied: shiboken2==5.15.2 in ./.local/lib/python3.9/site-packages (from PySide2==5.15.2) (5.15.2)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: python-dotenv==0.18.0 in ./.local/lib/python3.9/site-packages (0.18.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pytz==2021.1 in ./.local/lib/python3.9/site-packages (2021.1)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: pywin32-ctypes==0.2.0 in ./.local/lib/python3.9/site-packages (0.2.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: requests==2.25.1 in ./.local/lib/python3.9/site-packages (2.25.1)
+Requirement already satisfied: chardet<5,>=3.0.2 in ./.local/lib/python3.9/site-packages (from requests==2.25.1) (3.0.4)
+Requirement already satisfied: certifi>=2017.4.17 in ./.local/lib/python3.9/site-packages (from requests==2.25.1) (2020.12.5)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in ./.local/lib/python3.9/site-packages (from requests==2.25.1) (1.26.3)
+Requirement already satisfied: idna<3,>=2.5 in ./.local/lib/python3.9/site-packages (from requests==2.25.1) (2.10)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: ruamel.yaml==0.17.10 in ./.local/lib/python3.9/site-packages (0.17.10)
+Requirement already satisfied: ruamel.yaml.clib>=0.1.2 in ./.local/lib/python3.9/site-packages (from ruamel.yaml==0.17.10) (0.2.6)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: ruamel.yaml.clib==0.2.6 in ./.local/lib/python3.9/site-packages (0.2.6)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: runtime==0.1.4 in ./.local/lib/python3.9/site-packages (0.1.4)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: selenium==3.141.0 in ./.local/lib/python3.9/site-packages (3.141.0)
+Requirement already satisfied: urllib3 in ./.local/lib/python3.9/site-packages (from selenium==3.141.0) (1.26.3)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: shiboken2==5.15.2 in ./.local/lib/python3.9/site-packages (5.15.2)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: six==1.15.0 in ./.local/lib/python3.9/site-packages (1.15.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: sortedcollections==2.1.0 in ./.local/lib/python3.9/site-packages (2.1.0)
+Requirement already satisfied: sortedcontainers in ./.local/lib/python3.9/site-packages (from sortedcollections==2.1.0) (2.3.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: sortedcontainers==2.3.0 in ./.local/lib/python3.9/site-packages (2.3.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: soupsieve==2.2.1 in ./.local/lib/python3.9/site-packages (2.2.1)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: typing-extensions==3.7.4.3 in ./.local/lib/python3.9/site-packages (3.7.4.3)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: tzlocal==2.1 in ./.local/lib/python3.9/site-packages (2.1)
+Requirement already satisfied: pytz in ./.local/lib/python3.9/site-packages (from tzlocal==2.1) (2021.1)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: undetected-chromedriver==2.2.7 in ./.local/lib/python3.9/site-packages (2.2.7)
+Requirement already satisfied: selenium in ./.local/lib/python3.9/site-packages (from undetected-chromedriver==2.2.7) (3.141.0)
+Requirement already satisfied: urllib3 in ./.local/lib/python3.9/site-packages (from selenium->undetected-chromedriver==2.2.7) (1.26.3)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: urllib3==1.26.3 in ./.local/lib/python3.9/site-packages (1.26.3)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: vacefron.py==1.6.2 in ./.local/lib/python3.9/site-packages (1.6.2)
+Requirement already satisfied: aiohttp in ./.local/lib/python3.9/site-packages (from vacefron.py==1.6.2) (3.7.3)
+Requirement already satisfied: multidict<7.0,>=4.5 in ./.local/lib/python3.9/site-packages (from aiohttp->vacefron.py==1.6.2) (5.1.0)
+Requirement already satisfied: typing-extensions>=3.6.5 in ./.local/lib/python3.9/site-packages (from aiohttp->vacefron.py==1.6.2) (3.7.4.3)
+Requirement already satisfied: attrs>=17.3.0 in ./.local/lib/python3.9/site-packages (from aiohttp->vacefron.py==1.6.2) (20.3.0)
+Requirement already satisfied: async-timeout<4.0,>=3.0 in ./.local/lib/python3.9/site-packages (from aiohttp->vacefron.py==1.6.2) (3.0.1)
+Requirement already satisfied: chardet<4.0,>=2.0 in ./.local/lib/python3.9/site-packages (from aiohttp->vacefron.py==1.6.2) (3.0.4)
+Requirement already satisfied: yarl<2.0,>=1.0 in ./.local/lib/python3.9/site-packages (from aiohttp->vacefron.py==1.6.2) (1.6.3)
+Requirement already satisfied: idna>=2.0 in ./.local/lib/python3.9/site-packages (from yarl<2.0,>=1.0->aiohttp->vacefron.py==1.6.2) (2.10)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: webdriver-manager==3.4.1 in ./.local/lib/python3.9/site-packages (3.4.1)
+Requirement already satisfied: requests in ./.local/lib/python3.9/site-packages (from webdriver-manager==3.4.1) (2.25.1)
+Requirement already satisfied: crayons in ./.local/lib/python3.9/site-packages (from webdriver-manager==3.4.1) (0.4.0)
+Requirement already satisfied: configparser in ./.local/lib/python3.9/site-packages (from webdriver-manager==3.4.1) (5.0.2)
+Requirement already satisfied: colorama in ./.local/lib/python3.9/site-packages (from crayons->webdriver-manager==3.4.1) (0.4.4)
+Requirement already satisfied: urllib3<1.27,>=1.21.1 in ./.local/lib/python3.9/site-packages (from requests->webdriver-manager==3.4.1) (1.26.3)
+Requirement already satisfied: chardet<5,>=3.0.2 in ./.local/lib/python3.9/site-packages (from requests->webdriver-manager==3.4.1) (3.0.4)
+Requirement already satisfied: certifi>=2017.4.17 in ./.local/lib/python3.9/site-packages (from requests->webdriver-manager==3.4.1) (2020.12.5)
+Requirement already satisfied: idna<3,>=2.5 in ./.local/lib/python3.9/site-packages (from requests->webdriver-manager==3.4.1) (2.10)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: yarl==1.6.3 in ./.local/lib/python3.9/site-packages (1.6.3)
+Requirement already satisfied: multidict>=4.0 in ./.local/lib/python3.9/site-packages (from yarl==1.6.3) (5.1.0)
+Requirement already satisfied: idna>=2.0 in ./.local/lib/python3.9/site-packages (from yarl==1.6.3) (2.10)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: youtube-dl==2021.6.6 in ./.local/lib/python3.9/site-packages (2021.6.6)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Keyring is skipped due to an exception: cannot parse "HMODULE  volatile volatile const  LoadLibraryExW(LPCTSTR lpFileName, HANDLE hFile, DWORD dwFlags);"
+<cdef source string>:3:70: before: HANDLE
+Defaulting to user installation because normal site-packages is not writeable
+Requirement already satisfied: zope.interface==5.2.0 in ./.local/lib/python3.9/site-packages (5.2.0)
+Requirement already satisfied: setuptools in /usr/local/lib/python3.9/dist-packages (from zope.interface==5.2.0) (56.2.0)
+WARNING: You are using pip version 21.1.1; however, version 21.2.4 is available.
+You should consider upgrading via the '/usr/bin/python3.7 -m pip install --upgrade pip' command.
+Ignoring exception in on_ready
+Traceback (most recent call last):
+  File "/home/minecraft/multicraft/servers/server218351/.local/lib/python3.9/site-packages/discord/client.py", line 343, in _run_event
+    await coro(*args, **kwargs)
+  File "/home/minecraft/multicraft/servers/server218351/bot.py", line 39, in on_ready
+    DiscordComponents(bot)
+NameError: name 'DiscordComponents' is not defined
